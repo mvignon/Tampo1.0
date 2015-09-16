@@ -1,0 +1,18 @@
+citHeader("To cite Tampo in publications use:")
+
+citEntry(entry="Article",
+         title = "Extracting environmental histories from sclerochronological structures - Recursive partitioning as a mean to explore multielemental composition of fish otolith",
+         author = personList(person(last="Vignon", first="Matthias")),
+	 journal = "Ecological Informatics",
+         year         = "2015",
+         volume       = "?",
+         number       = "?",
+         pages        = "??-??",
+         url          = "http://www.sciencedirect.com/science/journal/15749541",
+         
+         textVersion = 
+         paste("M. Vignon (2015). ", 
+               "Extracting environmental histories from sclerochronological structures - Recursive partitioning as a mean to explore multielemental composition of fish otolith.",
+               "Ecological Informatics ??(??), ??--??.",
+               sep=""))
+ 
