@@ -2,7 +2,7 @@ Package: Tampo
 Type: Package
 Title: Tools for the Analysis of Microchemical Profiles from Otoliths
 Version: 1.0
-Date: 2015-09-17
+Date: 2015-09-18
 Author: Matthias Vignon
 Maintainer: Matthias Vignon <matthias.vignon@univ-pau.fr>
 Reference: Matthias Vignon. Extracting environmental histories from sclerochronological structures - Recursive partitioning as a mean to explore multielemental composition of fish otolith. Ecological Informatics (2015).
